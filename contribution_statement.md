@@ -12,10 +12,10 @@ Below is a brief qualitative summary of each member’s contributions.
 - MyST: Seungwon
 
 ### Seungwon (Sydney)
-Completed Part 3 and co-developed Part 5. Led the MyST website conversion and contributed to Binder setup. Reviewed and integrated files to ensure consistency across the project. Supported internal checks on the correctness of intermediate outputs.
+Completed Part 3 and co-developed Part 5. Led the MyST website conversion and contributed to Binder setup. Reviewed and integrated files to ensure consistency across the project. Supported internal checks on the correctness of intermediate outputs, and coordinated cross-validation of the overall project structure to ensure alignment across all notebooks, documentation, and deliverables.
 
 ### Demi
-Completed Part 1 and took the lead on the README documentation. Co-developed Part 5 and collaborated on Binder setup. Organized the project’s output directory/file structure to ensure clarity and reproducibility.
+Completed Part 1 and took the lead on the README documentation. Contributed additional analysis to Part 2, co-developed Part 5, and collaborated on Binder setup. Organized the project’s output directory and file structure to ensure clarity and reproducibility.
 
 ### Darlene
 Completed Part 2 and contributed to verifying its correctness and alignment with the overall workflow.
