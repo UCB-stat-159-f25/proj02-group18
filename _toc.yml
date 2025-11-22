@@ -2,10 +2,6 @@ format: jb-book
 root: README.md
 chapters:
   - file: nlp-P1.ipynb
-    title: Part 1
   - file: nlp-P2.ipynb
-    title: Part 2
   - file: nlp-P3.ipynb
-    title: Part 3
   - file: nlp-P4.ipynb
-    title: Part 4
