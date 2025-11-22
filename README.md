@@ -5,3 +5,14 @@ This repository is for Stat 159/259 group 18’s Project 2. The project explores
 ## ▶️ Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UCB-stat-159-f25/proj02-group18.git/HEAD)
+
+All analyses in this repository can be fully reproduced in Binder by launching the notebook environment with the button above.
+
+In addition, the rendered versions of all deliverables are available on our MyST GitHub Pages website. Each notebook appears as a separate tab on the site, allowing the project to be viewed as a structured data analysis report rather than raw code. The website is organized into four chapters that correspond to the assignment components:
+
+1. Data Loading and Initial Exploration
+2. Simple Text Processing — Tokenization, Lemmatization, Word Frequency, and Vectorization
+3. Advanced Text Processing — LDA and BERTopic Topic Modeling
+4. Additional Analysis
+
+This structure supports transparent, step-by-step reproducibility while also enabling readers to evaluate each component independently.
